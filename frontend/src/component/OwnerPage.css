@@ -1,0 +1,48 @@
+#addButton
+{
+    background-color: rgb(100, 105, 197);
+    color: aliceblue;
+    margin-top: 2%;
+    margin-left: 15%;
+    margin-bottom: 2%;
+    display: inline-block;
+    height: 5%;
+    width: 10%;
+    border: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 10px;
+}
+
+#updateButton
+{
+    background-color: rgb(100, 105, 197);
+    color: aliceblue;
+    margin-left: 15%;
+    display: inline-block;
+    height: 5%;
+    width: 10%;
+    border: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 10px;
+}
+
+#seatsButton
+{
+    background-color: rgb(100, 105, 197);
+    color: aliceblue;
+    margin-left: 15%;
+    display: inline-block;
+    height: 5%;
+    width: 10%;
+    border: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 10px;
+}
+
+#addbusform
+{
+    margin-left: 35%;
+}
